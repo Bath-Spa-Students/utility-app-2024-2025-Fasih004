@@ -13,7 +13,7 @@ print(Fore.LIGHTBLUE_EX + """
 
 print("Press 'Enter' key to start the vending machine")
 input()
-
+ 
 stock = { Fore.LIGHTWHITE_EX +
     """𝐒𝐍𝐀𝐂𝐊𝐒""": {
         1: {"name": "Lays Classic", "price": 1.50, "stock": 5},
